@@ -1,3 +1,6 @@
 [submodule "darcula"]
 	path = darcula
 	url = https://github.com/blueshirts/darcula.git
+[submodule "bundle/darcula"]
+	path = bundle/darcula
+	url = https://github.com/blueshirts/darcula.git
